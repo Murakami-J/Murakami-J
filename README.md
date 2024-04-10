@@ -22,9 +22,10 @@
   <img align="center" alt="Juliana-JCSS" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
 </div>
 
-![Snake animation](https://github.com/Murakami-J/Murakami-J/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
+
 
 <!--
+![Snake animation](https://github.com/Murakami-J/Murakami-J/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
 **Murakami-J/Murakami-J** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
